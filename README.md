@@ -1,4 +1,4 @@
-# Detect_Wise💳 
+# Detect_Wise 💳 
 
 A web-based application built with Streamlit to detect fraudulent credit card transactions using machine learning. The app includes features for single prediction and bulk file upload.
 
