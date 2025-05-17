@@ -6,7 +6,6 @@ A web-based application built with Streamlit to detect fraudulent credit card tr
 
 ## 📂 Project Structure
 
-    ```
     Detect_Wise/
     │
     ├── views/                  
@@ -37,20 +36,20 @@ A web-based application built with Streamlit to detect fraudulent credit card tr
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
-    ```
+    
     git clone https://github.com/your-username/Credit_Card_Fraud_Detection.git
     cd Credit_Card_Fraud_Detection
 
 ### 2. Create a Virtual Environment
-    ```
+    
     python -m venv cenv
 
 ### 3. Activate the Environment
-    ```
+    
     .\cenv\Scripts\activate
 
 ### 4. Install Dependencies
-    ```
+    
     pip install -r requirements.txt
 
 
