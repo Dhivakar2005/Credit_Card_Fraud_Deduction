@@ -1,4 +1,4 @@
-# 💳 Credit Card Fraud Detection
+# Detect_Wise💳 
 
 A web-based application built with Streamlit to detect fraudulent credit card transactions using machine learning. The app includes features for single prediction and bulk file upload.
 
@@ -20,10 +20,7 @@ A web-based application built with Streamlit to detect fraudulent credit card tr
     ├── app.py
     ├── logo.png     
     └── requirements.txt             
-
-
-
-
+    
 ## 🚀 Features
 
 - Streamlit web app with custom navigation (`streamlit-option-menu`)
@@ -69,13 +66,10 @@ Contributions are welcome! Whether it's bug fixes, improvements, documentation u
 
 ### 1. Fork the repository
 ### 2. Create a new branch:
-     ```
      git checkout -b feature/your-feature-name
 ### Make your changes and commit:
-      ```
     git commit -m "Add your message here"
 ### Push to your forked repo:
-    ```
     git push origin feature/your-feature-name
    Open a Pull Request and describe your changes
 
