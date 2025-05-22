@@ -15,10 +15,10 @@ A web-based application built with Streamlit to detect fraudulent credit card tr
     ├──models
     |   ├── fraud_model.joblib      
     │   └── scaler.pkl
-    ├── LICENSE
-    ├── README.md
     ├── app.py
-    ├── logo.png     
+    ├── logo.png
+    ├── LICENSE
+    ├── README.md     
     └── requirements.txt             
     
 ## 🚀 Features
@@ -34,16 +34,16 @@ A web-based application built with Streamlit to detect fraudulent credit card tr
 
 ### 1. Clone the Repository
     
-    git clone https://github.com/your-username/Credit_Card_Fraud_Detection.git
+    git clone https://github.com/Dhivakar2005/Credit_Card_Fraud_Detection.git
     cd Credit_Card_Fraud_Detection
 
 ### 2. Create a Virtual Environment
     
-    python -m venv cenv
+    python -m venv env
 
 ### 3. Activate the Environment
     
-    .\cenv\Scripts\activate
+    .\env\Scripts\activate
 
 ### 4. Install Dependencies
     
@@ -62,16 +62,6 @@ The ML model used in this app is trained on the Kaggle Credit Card Fraud Detecti
 
 Contributions are welcome! Whether it's bug fixes, improvements, documentation updates, or new features — your help is appreciated.
 
-### To contribute:
-
-### 1. Fork the repository
-### 2. Create a new branch:
-     git checkout -b feature/your-feature-name
-### Make your changes and commit:
-    git commit -m "Add your message here"
-### Push to your forked repo:
-    git push origin feature/your-feature-name
-   Open a Pull Request and describe your changes
 
 ## 📌 Guidelines
 - Keep code clean and well-documented
